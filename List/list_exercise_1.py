@@ -28,6 +28,4 @@ print(fruits[2])
 
 #จงแสดงจำนวนของ fruits
 fruits = ["apple", "banana", "cherry"]
-fruit_list = ["apple", "banana", "cherry"]
-for fruit in fruit_list:
-    print(fruit
+print(len(fruits))
